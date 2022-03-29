@@ -1,0 +1,6 @@
+
+
+mingw instalado com o package mingw32-gcc-g++, com a descrição: the gnu c++ compiler 
+plugins:
+    c/c++
+    c/c++ compile run
