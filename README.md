@@ -1,2 +1,2 @@
 # teste
- um app teste em c++
+um teste de aplicação em c++
